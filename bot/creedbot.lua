@@ -211,6 +211,7 @@ function create_config( )
     "banhammer",
     "src",
     "botphoto",
+    "music",
     "echon",
     "file",
     "quran",
