@@ -214,6 +214,8 @@ function create_config( )
     "music",
     "echon",
     "file",
+    "time",
+    "id",
     "quran",
     "savep",
     "well",
