@@ -550,6 +550,7 @@ To tags the every one and sends your message at bottom
 !Echo ***
 !src ***
 !text ***
+!music ***
 More plugins  soon ...
 ⚠️ We are Creeds ⚠️
 
